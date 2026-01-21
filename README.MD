@@ -14,9 +14,9 @@
 ## 📖 Project Overview
 
 <h2> Even Numbers Output</h2>
- <img src="even.png" alt="" />
+<img src="screenshots/even.png" alt="" />
 <h2> Odd Numbers Output</h2>
- <img src="odd.png" alt="" />
+<img src="screenshots/ODD.png" alt="" />
 The **Even–Odd Validator Pro** is a modern web application designed to provide users with a seamless way to validate numerical parity. Unlike basic checkers, this tool processes ranges of data to provide a comprehensive breakdown of integers.
 
 Wrapped in an **Extreme Glassmorphism UI**, the application prioritizes user experience with smooth animations, professional color-coding, and an optimized "slider" (scrollable) results area.

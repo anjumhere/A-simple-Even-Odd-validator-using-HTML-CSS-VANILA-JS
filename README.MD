@@ -23,7 +23,7 @@ The app features a **Glassmorphism UI**, smooth animations, and professional col
 ## 🌐 Live Demo
 
 You can try the app live here:  
-[Even–Odd Validator Pro - Live](https://yourusername.github.io/even-odd-validator-pro)
+[Even–Odd Validator Pro - Live](https://anjumhere.github.io/A-simple-Even-Odd-validator-using-HTML-CSS-VANILA-JS/)
 
 > Open the link in any modern browser and test the parity checker instantly.
 
